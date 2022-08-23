@@ -1,0 +1,1 @@
+draw_text(7,10,string("vida=")+string(vida));
